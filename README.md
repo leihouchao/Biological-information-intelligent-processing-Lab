@@ -16,4 +16,4 @@
 
 上传操作示例：
 
-    ![avatar](./操作示例/add_step1.png)
+    ![](./操作示例/add_step1.png)
