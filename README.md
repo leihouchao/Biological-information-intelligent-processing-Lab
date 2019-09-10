@@ -12,3 +12,8 @@
        （1）ppt的命名格式：2019下半年第一周_2019-9-9_张三_cvpr2019_Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology.pptx
        （2）论文：2019下半年第一周_Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology.pdf
        （3）论文简介：2019下半年第一周_cvpr2019_AWMF-CNN论文简介.pdf
+
+
+上传操作示例：
+
+    ![avatar](http://baidu.com/pic/doge.png)
