@@ -16,4 +16,6 @@
 
 上传操作示例：
 
-    ![](./操作示例/add_step1.png)
+    <div align="left">
+      <img src="./操作示例/add_step1.png"/>
+    </div>
