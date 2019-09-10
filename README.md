@@ -16,6 +16,6 @@
 
 上传操作示例：
 
-    <div align="left">
-      <img src="./操作示例/add_step1.png"/>
-    </div>
+<div align="left">
+  <img src="./操作示例/add_step1.png"/>
+</div>
