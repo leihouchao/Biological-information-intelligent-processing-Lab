@@ -16,4 +16,4 @@
 
 上传操作示例：
 
-    ![avatar](http://baidu.com/pic/doge.png)
+    ![avatar](./操作示例/add_step1.png)
