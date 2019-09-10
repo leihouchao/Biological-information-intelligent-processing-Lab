@@ -31,3 +31,5 @@
   <img src="./操作示例/add_step3.png"/>
 </div>
 
+## 删除操作示例
+参考博客 https://blog.csdn.net/weixin_42152081/article/details/80635777
